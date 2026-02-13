@@ -1,0 +1,9 @@
+# Composer dependencies
+/vendor/
+
+# Local configuration / logs
+*.log
+.DS_Store
+
+# Internal documentation (as requested)
+features.md

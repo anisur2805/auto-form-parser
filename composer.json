@@ -1,0 +1,14 @@
+{
+    "name": "anisur2805/auto-form-parser",
+    "description": "AutoForm Parser Dependencies",
+    "type": "project",
+    "require": {
+        "smalot/pdfparser": "*",
+        "phpoffice/phpword": "*"
+    },
+    "authors": [
+        {
+            "name": "Anisur Rahaman"
+        }
+    ]
+}
