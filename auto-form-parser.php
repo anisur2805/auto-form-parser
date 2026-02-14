@@ -3,7 +3,7 @@
  * Plugin Name: Resume Auto Parser
  * Description: Automatically extract data from Resumes (PDF, DOCX, TXT, MD) to auto-fill application forms.
  * Version: 1.0
- * Author: Antigravity
+ * Author: Anisur Rahman
  * Text Domain: resume-auto-parser
  */
 
